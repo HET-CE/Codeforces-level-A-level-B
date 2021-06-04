@@ -19,5 +19,5 @@ public class Boy_or_Girl {
             System.out.println("IGNORE HIM!");
         else
             System.out.println("CHAT WITH HER!");
-    }
+            sc.close(); }
 }

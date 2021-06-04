@@ -11,5 +11,5 @@ public class B_Drinks {
             sum = sum + (num/100);
         }
         System.out.format("%.12f" ,(double)(sum/n*100));
-    }   
+        sc.close();}   
 }

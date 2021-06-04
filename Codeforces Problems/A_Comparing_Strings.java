@@ -40,6 +40,7 @@ public class A_Comparing_Strings {
         if(flag){
             System.out.println("YES");
         }
+        sc.close();
     }
 }
 // aabb

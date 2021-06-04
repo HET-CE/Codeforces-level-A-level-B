@@ -87,5 +87,5 @@ public class B_Spreadsheets {
                 System.out.println(str1);
             }
         }
-    }
+        sc.close();}
 }

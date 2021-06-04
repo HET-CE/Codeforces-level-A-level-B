@@ -44,7 +44,7 @@ public class B_Letter {
         if(flag){
             System.out.println("YES");
         }
-    }
+        sc.close();}
 }
 
 // Instead of dogging Your footsteps it disappears but you dont notice anything

@@ -26,5 +26,5 @@ public class A_Reconnaissance {
             min2 = 0; 
         }           
             System.out.println((min1+1) + " " + (min2+1));
-    }
+            sc.close(); }
 }

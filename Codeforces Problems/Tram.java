@@ -21,5 +21,5 @@ public class Tram {
                 max = inbus;
         }
         System.out.println(max);
-    }
+        sc.close(); }
 }

@@ -13,7 +13,7 @@ public class Hit_the_Lottery {
 
         int ans = minBills(n, arr, dp);
         System.out.println(ans);
-    }
+        sc.close();}
 
     static int minBills(int n, int[] arr, int[] dp){
         if(n == 0){

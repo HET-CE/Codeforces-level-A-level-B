@@ -28,5 +28,5 @@ public class A_Translation {
         else{
             System.out.println("NO");
         }
-    }
+        sc.close();  }
 }

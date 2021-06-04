@@ -23,6 +23,6 @@ public class Ordinary_Numbers {
             num = s.nextInt();
             helper(num);
         }
-
+        s.close();
     }
 }

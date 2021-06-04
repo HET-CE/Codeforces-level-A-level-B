@@ -34,5 +34,5 @@ public class B_big_segment {
         };
         if(flag)
             System.out.println("-1");
-    }
+            sc.close(); }
 }

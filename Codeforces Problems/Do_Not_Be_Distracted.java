@@ -36,6 +36,7 @@ public class Do_Not_Be_Distracted {
         while (t-- != 0) {
             solve();
         }
+        s.close();
     }
 
 }

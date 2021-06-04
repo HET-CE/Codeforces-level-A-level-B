@@ -29,5 +29,5 @@ public class A_Little_Elephant_and_Rozdil {
             System.out.println(++index);
         else
             System.out.println("Still Rozdil");
-    }
+            sc.close(); }
 }

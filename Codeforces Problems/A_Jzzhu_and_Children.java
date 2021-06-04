@@ -32,5 +32,5 @@ public class A_Jzzhu_and_Children {
             i++;
         }
         System.out.println(index);
-    }
+        sc.close(); }
 }

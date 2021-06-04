@@ -6,6 +6,7 @@ public class B_Present_from_Lena{
       int n = 0;
       n = scan.nextInt();
       printNumberDiamond(n);
+      scan.close();
     }
 
     private static void printNumberDiamond(int n) {

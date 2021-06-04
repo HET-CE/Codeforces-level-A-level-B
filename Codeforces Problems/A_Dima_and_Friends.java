@@ -17,5 +17,6 @@ public class A_Dima_and_Friends {
             System.out.println("2");
         else
             System.out.println("1");
-    }    
+            sc.close();
+        }    
 }

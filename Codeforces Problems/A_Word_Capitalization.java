@@ -11,5 +11,5 @@ public class A_Word_Capitalization {
             str = c + str.substring(1);
         }
         System.out.println(str);
-    }
+        sc.close();}
 }

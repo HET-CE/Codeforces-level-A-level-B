@@ -16,5 +16,6 @@ public class A_Beautiful_Matrix {
             }
         }
         System.out.println(Math.abs(r-2)+Math.abs(c-2));
+        sc.close();
     }
 }

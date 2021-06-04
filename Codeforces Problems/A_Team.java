@@ -17,5 +17,5 @@ public class A_Team {
                 ans++;
         }
         System.out.println(ans);
-    }
+        sc.close(); }
 }

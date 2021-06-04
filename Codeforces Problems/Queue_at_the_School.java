@@ -33,5 +33,5 @@ public class Queue_at_the_School {
             str = result(str, n);
         }
         System.out.println(str);
-    }
+        sc.close();}
 }

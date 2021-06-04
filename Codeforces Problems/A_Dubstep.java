@@ -29,5 +29,6 @@ public class A_Dubstep {
         String str = sc.nextLine();
         solve(str, 0);
         System.out.println(curr.substring(1));
+        sc.close();
     }
 }

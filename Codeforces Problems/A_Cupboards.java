@@ -45,6 +45,7 @@ public class A_Cupboards {
                 cn = cn + cnrf;   
             System.out.println(cn); 
         }
-    }
+   
+        sc.close(); }
 }
 // if((cnlz != 0 || cnlf != 0 ) && (cnrz != 0 || cnrf != 0))

@@ -24,5 +24,5 @@ public class A_Helpful_Maths {
         }
         String string = sb.toString();
         System.out.println(string);
-    }
+        sc.close();}
 }

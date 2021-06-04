@@ -19,5 +19,5 @@ public class Way_Too_Long_Words {
             else
                 System.out.println(st);
         }
-    }
+        obj.close();}
 }

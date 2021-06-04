@@ -19,5 +19,5 @@ public class A_Little_Elephant_and_Function {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         solve(n);
-    }
+        sc.close(); }
 }

@@ -16,5 +16,5 @@ public class A_System_f_Equations {
             a = a + 1;
         }
         System.out.println(cn);
-    }
+        sc.close(); }
 }

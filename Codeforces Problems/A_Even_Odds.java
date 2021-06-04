@@ -17,5 +17,6 @@ public class A_Even_Odds {
             }
         }
         System.out.println(i);
+        sc.close();
     }
 }

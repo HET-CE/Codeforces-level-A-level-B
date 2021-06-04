@@ -33,5 +33,6 @@ public class A_Arrival_of_the_General {
             swap = Math.abs(0-max_index) + Math.abs(n-1-min_index) - 1;
         }
         System.out.println(swap);
+        sc.close();
     }
 }

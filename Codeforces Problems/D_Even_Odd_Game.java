@@ -23,7 +23,7 @@ public class D_Even_Odd_Game {
             else
                 System.out.println("Bob");
         }
-    }
+        sc.close();}
 }
 // 4
 // 4

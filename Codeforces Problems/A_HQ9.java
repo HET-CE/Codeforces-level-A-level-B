@@ -13,5 +13,5 @@ public class A_HQ9 {
         }
         if(i == str.length())
             System.out.println("NO");
-    }
+            sc.close(); }
 }

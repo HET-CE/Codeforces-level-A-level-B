@@ -14,5 +14,5 @@ public class A_The_number_of_positions {
         ans = ans - sub + 1;
         }
         System.out.println(ans);
-    }
+        sc.close(); }
 }

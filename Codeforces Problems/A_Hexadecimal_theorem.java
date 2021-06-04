@@ -20,5 +20,5 @@ public class A_Hexadecimal_theorem {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         solve(n);
-    }
+        sc.close();}
 }

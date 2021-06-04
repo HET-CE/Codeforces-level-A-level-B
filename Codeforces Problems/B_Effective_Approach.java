@@ -32,5 +32,5 @@ public class B_Effective_Approach {
             count_end = count_end + (size - (j));           
         }
         System.out.print(count_start + " " + count_end);
-    }
+        sc.close();}
 }

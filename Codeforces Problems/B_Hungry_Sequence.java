@@ -15,5 +15,5 @@ public class B_Hungry_Sequence {
             i = j ;
             j = m;
         }
-    }
+        sc.close(); }
 }

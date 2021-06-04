@@ -22,5 +22,5 @@ public class Beautiful_Year{
             else
                 year++;    
         }
-    }
+        sc.close();}
 }

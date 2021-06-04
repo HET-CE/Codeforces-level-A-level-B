@@ -38,5 +38,5 @@ public class A_Puzzles {
         //     else
         //         System.out.println(diff2);
         // }
-    }    
+        sc.close(); }    
 }

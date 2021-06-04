@@ -13,5 +13,5 @@ public class watermelon{
         else{
             System.out.println("NO");
         }
-    }
+        obj.close(); }
 }

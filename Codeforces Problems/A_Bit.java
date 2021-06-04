@@ -15,5 +15,6 @@ public class A_Bit {
                 --bit;
         }
         System.out.println(bit);
+        sc.close();
     }
 }

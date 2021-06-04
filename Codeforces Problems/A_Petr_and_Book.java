@@ -20,7 +20,7 @@ public class A_Petr_and_Book {
             if(i > 6)
                 i = 0;
         }
-    }    
+        sc.close();  }    
 }
 // 50
 // 10 1 10 1 10 1 10

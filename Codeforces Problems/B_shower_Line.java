@@ -38,5 +38,5 @@ public class B_shower_Line {
         } while (next_permutation(p, p + n));
 
         System.out.println(ans);
-    }
+        sc.close();}
 }

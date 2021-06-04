@@ -39,5 +39,6 @@ public class A_Football {
         else{
             System.out.println(arr.get(1).str);
         }
+        sc.close();
     }
 }

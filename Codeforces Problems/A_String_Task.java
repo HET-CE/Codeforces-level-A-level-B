@@ -26,5 +26,5 @@ public class A_String_Task {
         solve(str, 0);
 
         System.out.println(curr);
-    }
+        sc.close(); }
 }

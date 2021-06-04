@@ -134,5 +134,5 @@ public class B_Sail {
             // System.out.println(destString);
             System.out.println(result);
         }
-    }
+        sc.close(); }
 }

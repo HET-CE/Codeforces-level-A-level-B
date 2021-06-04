@@ -33,5 +33,5 @@ public class A_Kitahara_Harukis_Gift {
                 System.out.println("NO");
             }
         }
-    }
+        sc.close(); }
 }

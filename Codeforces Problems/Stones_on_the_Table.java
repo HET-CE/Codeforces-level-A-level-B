@@ -17,5 +17,5 @@ public class Stones_on_the_Table{
             }
         }
         System.out.println(cn);
-    }
+        sc.close();   }
 }

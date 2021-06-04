@@ -19,5 +19,5 @@ public class A_Nearly_Lucky_Number {
         else{
             System.out.println("NO");
         }
-    }
+        sc.close(); }
 }

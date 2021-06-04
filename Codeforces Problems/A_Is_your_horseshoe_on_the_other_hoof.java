@@ -14,5 +14,5 @@ public class A_Is_your_horseshoe_on_the_other_hoof {
                 arr.add(n);
         }
         System.out.println(cn);
-    }    
+        sc.close(); }    
 }

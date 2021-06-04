@@ -22,5 +22,5 @@ public class B_sale{
 		}
 
 		System.out.println(Math.abs(sum));
-	}
+		sc.close();}
  }

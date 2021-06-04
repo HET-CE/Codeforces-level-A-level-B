@@ -32,5 +32,5 @@ public class Spy_Detected{
                 }
             }
         }
-    }
+        sc.close(); }
 }

@@ -30,5 +30,5 @@ public class A_Panoramixs_Prediction {
         }
         else
             System.out.println("NO");
-    }
+            sc.close(); }
 }

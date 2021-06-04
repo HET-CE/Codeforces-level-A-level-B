@@ -18,5 +18,5 @@ public class Is_sort {
         int[] arr = {2, 2, 3, 4, 1};
         sort(arr, 0, arr.length-1);
         System.out.println(ans);
-    }
+        sc.close();}
 }

@@ -21,5 +21,5 @@ public class A_Word {
             str = str.toLowerCase();
             System.out.println(str);
         }    
-    }
+        sc.close();  }
 }

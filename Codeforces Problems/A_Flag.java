@@ -44,6 +44,7 @@ public class A_Flag {
         if(flag && flag2)
             System.out.println("YES");
         System.out.println(flag +" "+flag2);
+        sc.close();
     }
 }
 

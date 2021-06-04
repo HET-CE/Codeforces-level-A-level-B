@@ -21,5 +21,5 @@ public class A_Nastia_and_nearly_Good_Numbers {
                 System.out.println(a + " " + a*b + " " + a*(b+1));
             }
         }
-    }
+        sc.close(); }
 }

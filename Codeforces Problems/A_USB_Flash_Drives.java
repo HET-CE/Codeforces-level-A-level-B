@@ -29,7 +29,8 @@ public class A_USB_Flash_Drives{
             cn++;
         }
         System.out.println(cn);
-    }
+   
+        sc.close(); }
 
     static int maxi(int[] arr){
         int max = Integer.MIN_VALUE;

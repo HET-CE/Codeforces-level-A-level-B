@@ -30,5 +30,5 @@ public class A_Heist {
                 cn++;
         }
         System.out.println(cn);
-    }    
+        sc.close(); }    
 }

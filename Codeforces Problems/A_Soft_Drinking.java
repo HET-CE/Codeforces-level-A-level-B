@@ -17,5 +17,5 @@ public class A_Soft_Drinking {
         int num3 = p/np;
 
         System.out.println((Math.min(Math.min(num1, num2),num3))/n);
-    }
+        sc.close();}
 }

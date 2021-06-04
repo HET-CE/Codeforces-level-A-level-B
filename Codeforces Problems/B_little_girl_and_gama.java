@@ -36,5 +36,5 @@ public class B_little_girl_and_gama {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
         solve(str);
-    }
+        sc.close();}
 }

@@ -53,5 +53,5 @@ public class B_Pashmak_and_Flowers {
         long diff = arr[n-1] - arr[0];
         noOfWays(arr, 0, n);
         System.out.println(diff + " " + cn);
-    }    
+        sc.close(); }    
 }

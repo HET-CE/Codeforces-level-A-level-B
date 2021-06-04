@@ -29,5 +29,5 @@ public class A_Magic_Numbers {
             if(i == str.length())
                 System.out.println("YES");
         }
-    }
+        sc.close();  }
 }

@@ -22,6 +22,7 @@ public class A_Dragons {
         if(flag)
             res = "YES";
         System.out.println(res);
+        sc.close();
     }
 }
 // 999 2

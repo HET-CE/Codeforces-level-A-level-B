@@ -19,5 +19,5 @@ public class A_Petya_and_Strings {
             System.out.println("0");
         else
             System.out.println("1");    
-    }
+            sc.close(); }
 }

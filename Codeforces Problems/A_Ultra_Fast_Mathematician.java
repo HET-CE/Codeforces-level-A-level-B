@@ -20,7 +20,7 @@ public class A_Ultra_Fast_Mathematician{
             ans = ans + '0';
         }
         System.out.println(ans);
-    }
+        sc.close();}
 }
 
 // 1010100

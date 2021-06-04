@@ -20,6 +20,6 @@ public class A_Football_2 {
         Scanner sc =  new Scanner(System.in);
         String str  = sc.nextLine();
         solve(str,0);
-
+        sc.close();
     }
 }

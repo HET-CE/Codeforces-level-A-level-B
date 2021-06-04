@@ -26,6 +26,6 @@ public class Potion_making {
             k = sc.nextInt();    
 		    System.out.println(100 / gcd(100, k));
 	    }
-
+        sc.close();
     }
 }

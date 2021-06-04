@@ -17,5 +17,6 @@ public class New_Year_and_Hurry {
             cn++;
         }
         System.out.println(cn-1);
+        sc.close();
     }
 }

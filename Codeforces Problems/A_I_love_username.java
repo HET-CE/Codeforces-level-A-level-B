@@ -22,5 +22,5 @@ public class A_I_love_username {
             }
         }
         System.out.println(cn);
-    }
+        sc.close(); }
 }

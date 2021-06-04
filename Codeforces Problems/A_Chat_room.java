@@ -38,5 +38,6 @@ public class A_Chat_room {
         String str = sc.nextLine();
         solve(str, 0);
         System.out.println(curr);
+        sc.close();
     }
 }

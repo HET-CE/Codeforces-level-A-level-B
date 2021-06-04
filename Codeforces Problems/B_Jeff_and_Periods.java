@@ -70,5 +70,5 @@ public class B_Jeff_and_Periods {
                     System.out.println(temp + " " + Math.abs((index1 - index2)));
             }
         }
-    }
+        sc.close(); }
 }

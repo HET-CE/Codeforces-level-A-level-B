@@ -25,5 +25,6 @@ public class A_Business_trip {
         }
         if(flag)
             System.out.println(11 - l);
-    }
+    
+            sc.close();    }
 }
