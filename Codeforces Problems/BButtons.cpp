@@ -40,7 +40,13 @@ ll caseNumber = 1;
 ////////////////////////////////////////////////////////////////
  
 void solve(){
-
+    int n;
+    cin>>n;
+    int res = 0;
+    for(int i = 1 ; i <= n - 1 ; i++){
+        res += (n - i) * i;
+    }
+    cout<<(res+n)<<endl;
 } 
 
 
@@ -50,7 +56,7 @@ void solve(){
 
 
 
-bool TestCase = 1;
+bool TestCase = 0;
 bool isGoogles = 0;
  
  
@@ -73,7 +79,7 @@ int main() {
 	}
 	while (t--) {
 		if (isGoogles) {cout << "Case #" << caseNumber << ": ";} caseNumber++;
-		jabru();
+		solve();
  
 	}
 	return 0;
